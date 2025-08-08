@@ -3,6 +3,7 @@
 Welcome to **Dr. AI**, a cutting-edge AI-powered medical assistant designed to break down language barriers in healthcare settings. By enabling seamless, real-time communication between patients and healthcare providers, Dr. AI ensures accurate and accessible medical dialogues across multiple languages.
 
 **Refer to pdf file in the repositary to view our full demonstration.**
+https://docs.google.com/presentation/d/1bp0ehGIKUDD9DjZIsShtWqLDM31t_LFg_GBAuxK-z6k/edit?usp=sharing
 
 ---
 
