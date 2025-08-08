@@ -30,7 +30,7 @@ import time
 # ---------------------------------------
 # CONFIG
 # ---------------------------------------
-GEMINI_API_KEY = "AIzaSyCNL8iRQFTyMQd58pjrEIWlYt5qwbC6y54"
+GEMINI_API_KEY = "YOUR_GEMINI_API_KEY"
 genai.configure(api_key=GEMINI_API_KEY)
 
 # ---------------------------------------
