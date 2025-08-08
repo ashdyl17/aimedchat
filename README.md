@@ -40,6 +40,8 @@ Dr. AI goes beyond the core requirements, delivering a comprehensive, user-centr
   - **Personalized Recommendations:** Actionable lifestyle changes, preventive measures, and follow-up actions tailored to the patient.  
 - **Structured Output:** Reports feature custom styles, patient information tables, and clear sections for easy review and record-keeping.
 
+<img width="1254" height="855" alt="image" src="https://github.com/user-attachments/assets/78c010fd-cbb6-4ac9-a23d-4952c58a7067" />
+
 ### 🔊 Enhanced Accessibility & User Experience
 
 - **Speech-to-Text & Text-to-Speech:** Full support for speech input and AI response output, optimized for platforms (e.g., native `say` on macOS).  
